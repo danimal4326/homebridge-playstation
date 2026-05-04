@@ -1,7 +1,7 @@
 {
   "displayName": "Playstation",
-  "name": "homebridge-playstation",
-  "version": "1.7.0",
+  "name": "@danimal4326/homebridge-playstation",
+  "version": "1.7.1",
   "description": "Playstation integration for Homebridge",
   "license": "ISC",
   "repository": {
@@ -38,7 +38,7 @@
     "postinstall": "patch-package"
   },
   "bin": {
-    "homebridge-playstation-login": "./dist/cli.js"
+    "homebridge-playstation-login": "dist/cli.js"
   },
   "keywords": [
     "homebridge-plugin"
