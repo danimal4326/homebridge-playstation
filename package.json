@@ -6,24 +6,21 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kopiro/homebridge-playstation.git"
+    "url": "git+https://github.com/Danimal4326/homebridge-playstation.git"
   },
+  "homepage": "https://github.com/Danimal4326/homebridge-playstation#readme",
   "files": [
     "dist",
     "LICENSE",
     "config.schema.json"
   ],
   "bugs": {
-    "url": "https://github.com/kopiro/homebridge-playstation/issues"
+    "url": "https://github.com/Danimal4326/homebridge-playstation/issues"
   },
   "author": {
-    "name": "Flavio De Stefano",
-    "email": "destefano.flavio@gmail.com",
-    "url": "https://www.kopiro.me"
-  },
-  "funding": {
-    "type": "paypal",
-    "url": "https://www.paypal.me/kopiro"
+    "name": "Dan Chlopek",
+    "email": "danchlopek@gmail.com",
+    "url": "https://github.com/Danimal4326"
   },
   "engines": {
     "node": "^18.13.0 || ^20.16.0 || ^22.5.1 || ^24",
