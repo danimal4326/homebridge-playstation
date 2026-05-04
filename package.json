@@ -1,7 +1,7 @@
 {
   "displayName": "Playstation",
   "name": "@danimal4326/homebridge-playstation",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "description": "Playstation integration for Homebridge",
   "license": "ISC",
   "repository": {
@@ -11,6 +11,7 @@
   "homepage": "https://github.com/Danimal4326/homebridge-playstation#readme",
   "files": [
     "dist",
+    "patches",
     "LICENSE",
     "config.schema.json"
   ],
